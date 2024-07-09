@@ -34,11 +34,26 @@
 
 [SMSBoom](https://dgithub.xyz/lanpeng1612/SMSBoom/archive/refs/heads/main.zip) 下载
 
-```python
+### 安装使用
+
+1.创建虚拟环境
+```shell
 python -m venv SMS_VENV
-.\SMS_VENV\Scripts\activate
-pip install -r requirements.txt
 ```
+2.启动虚拟环境
+```shell
+.\SMS_VENV\Scripts\activate
+```
+3.安装库
+```shell
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
+```
+4.使用
+```shell
+smsboom.py run -t 64 -p 198xxxxxxxxx
+```
+
 
 ## Quick Start
 
