@@ -28,12 +28,16 @@
 8. 使用随机的 User-Agent.
 9. 可指定轰炸次数, 轰炸间隔时间.
 
-## 高速下载
+## 快速使用
+
+### 高速下载
+
 [SMSBoom](https://dgithub.xyz/lanpeng1612/SMSBoom/archive/refs/heads/main.zip) 下载
 
-## 快速使用
 ```python
-smsboom_pyinstall.exe update
+python -m venv SMS_VENV
+.\SMS_VENV\Scripts\activate
+pip install -r requirements.txt
 ```
 
 ## Quick Start
