@@ -28,6 +28,9 @@
 8. 使用随机的 User-Agent.
 9. 可指定轰炸次数, 轰炸间隔时间.
 
+## 高速下载
+[SMSBoom](https://dgithub.xyz/lanpeng1612/SMSBoom/archive/refs/heads/main.zip) 下载
+
 ## Quick Start
 
 ### 适用于小白
