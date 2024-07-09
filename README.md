@@ -31,6 +31,11 @@
 ## 高速下载
 [SMSBoom](https://dgithub.xyz/lanpeng1612/SMSBoom/archive/refs/heads/main.zip) 下载
 
+## 快速使用
+```python
+smsboom_pyinstall.exe update
+```
+
 ## Quick Start
 
 ### 适用于小白
